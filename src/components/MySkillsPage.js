@@ -116,13 +116,13 @@ const MySkillsPage = () => {
           <Description>
             <strong>I like to Design</strong>
             <ul>
-              <li>Web Design</li>
+              <li>Web Applications</li>
               <li>Mobile Apps</li>
             </ul>
-            <strong>Tools</strong>
+            {/* <strong>Tools</strong>
             <ul>
               <li>Figma</li>
-            </ul>
+            </ul> */}
           </Description>
         </Main>
         <Main>
@@ -136,8 +136,7 @@ const MySkillsPage = () => {
           <Description>
             <strong>Skills</strong>
             <p>
-              Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase
-              etc.
+              Html, Css,Bootstrap, JavaScript, React, Redux, Sass, Firebase etc.
             </p>
             <strong>Tools</strong>
             <p>VScode, Github, Codepen etc.</p>

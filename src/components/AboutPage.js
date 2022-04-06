@@ -83,9 +83,9 @@ const AboutPage = () => {
           <br /> <br /> I'm interested in the whole frontend stack Like trying
           new things and building great projects. I'm an independent freelancer
           and blogger.
-          <br /> <br /> I love to write blogs and read books. I believe
-          everything is an Art when you put your consciousness in it. You can
-          connect with me via social links.
+          <br /> <br /> I love to paint and read books. I believe everything is
+          an Art when you put your consciousness in it. You can connect with me
+          via social links.
         </Main>
         <BigTitle text="ABOUT" top="10%" left="5%" />
       </Box>
